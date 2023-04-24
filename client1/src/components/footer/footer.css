@@ -1,0 +1,64 @@
+.footer {
+  box-sizing: border-box;
+  width: 100%;
+  /* max-width: 1024px; */
+  font-size: 20px;
+  background-color: #040f62;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  padding: 45px 0;
+}
+
+.fLists {
+  box-sizing: border-box;
+  width: 1200px;
+  padding: 0 50px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+}
+
+.fLists > a {
+    text-decoration: none;
+ }
+.fText {
+  font-size: 18px;
+  text-align: center;
+  color:white;
+}
+.fList {
+  list-style: none;
+}
+.fListItem {
+  color: white;
+  cursor: pointer;
+}
+.fListItem:hover {
+  transform: scale(1.04);
+}
+
+.logo1 {
+  width: 265px;
+  /* border-style: double; */
+  /* border-radius: 100px; */
+}
+.sp123 {
+  margin-right: 30px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.headerBtn {
+  background-color: pink;
+  color: white;
+  font-weight: 500;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}

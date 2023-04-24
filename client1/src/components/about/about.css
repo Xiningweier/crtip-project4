@@ -1,0 +1,53 @@
+.ft{
+    margin-left: 0px;
+}
+.terms{
+    width: 100%;
+    max-width: 1024px;
+    margin-left: 0px;
+}
+
+
+.ul-font{
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.terms-about {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    text-align: center
+  }
+  
+  /* .logo22 {
+    width: 450px;
+    height: 350px;
+    margin-bottom: 20px;
+  } */
+
+  .logo22{
+    /* margin-left: 400px; */
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+    /* border-style: dotted; */
+}
+  
+  .ul-font {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ul-font li {
+    margin-bottom: 20px;
+  }
+  
+  .ul-font li:last-child {
+    margin-bottom: 0;
+  }
+  
